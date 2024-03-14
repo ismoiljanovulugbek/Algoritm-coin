@@ -1,2 +1,0 @@
-# Algoritm-coin
-Algoritm-coin
